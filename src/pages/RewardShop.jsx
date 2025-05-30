@@ -3,8 +3,8 @@ import { useApp } from '../context/AppContext';
 import AddRewardForm from '../components/AddRewardForm';
 
 const dummyRewards = [
-  { id: '1', title: '30 mins screen time', cost: 20 },
-  { id: '2', title: 'Trip to the park', cost: 50 },
+  { id: '1', title: '30 mins screen time', cost: 50 },
+  { id: '2', title: 'Trip to the park', cost: 100 },
   { id: '3', title: '1 extra bedtime story', cost: 15 },
 ];
 
